@@ -16,3 +16,5 @@ To run the system you must have python previously installed and being inside the
 ```
 python view.py
 ```
+
+A lot remains to be modeled, but it would be a repetition of the models and Sales and Stock. As the purpose is only to show what the modeling of such a system would be like, the modeling was not continued. What has been implemented is already sufficient as a basis.
