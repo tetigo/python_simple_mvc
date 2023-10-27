@@ -1,0 +1,2 @@
+banana|2.49|Frutas*5
+uva|6.78|Frutas*200

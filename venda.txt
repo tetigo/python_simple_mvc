@@ -1,0 +1,6 @@
+caneta|5.99|papelaria*12345|jose|123-123|jose@email.com|rua caracas, 123|5656565656*tiago|123-456|tiago@email.com|rua dos vencedores,1000|123123123123*1*2023-10-23 13:42:11.340866
+caneta|5.99|papelaria*12345|jose|123-123|jose@email.com|rua caracas, 123|5656565656*tiago|123-456|tiago@email.com|rua dos vencedores,1000|123123123123*10*2023-10-23 13:47:23.665674
+caneta|5.99|papelaria*12345|jose|123-123|jose@email.com|rua caracas, 123|5656565656*tiago|123-456|tiago@email.com|rua dos vencedores,1000|123123123123*134*2023-10-24 13:47:44.256536
+caneta|5.99|papelaria*12345|jose|123-123|jose@email.com|rua caracas, 123|5656565656*tiago|123-456|tiago@email.com|rua dos vencedores,1000|123123123123*200*2023-10-25 13:47:59.989956
+caneta|5.99|papelaria*12345|jose|123-123|jose@email.com|rua caracas, 123|5656565656*tiago|123-456|tiago@email.com|rua dos vencedores,1000|123123123123*11*2023-10-25 13:48:11.367095
+uva|6.78|Frutas*12345|jose|123-123|jose@email.com|rua caracas, 123|5656565656*tiago|123-456|tiago@email.com|rua dos vencedores,1000|123123123123*1*2023-10-26 17:05:18.447728
